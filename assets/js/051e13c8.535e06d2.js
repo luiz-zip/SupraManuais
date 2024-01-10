@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksupra_manuais=self.webpackChunksupra_manuais||[]).push([[4639],{9119:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/SupraManuais/blog/tags/docusaurus","allTagsPath":"/SupraManuais/blog/tags","count":4,"unlisted":false}')}}]);

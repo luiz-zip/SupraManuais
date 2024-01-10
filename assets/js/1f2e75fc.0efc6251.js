@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksupra_manuais=self.webpackChunksupra_manuais||[]).push([[7024],{6385:a=>{a.exports=JSON.parse('{"permalink":"/SupraManuais/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
