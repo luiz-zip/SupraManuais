@@ -9,8 +9,6 @@ O SUPRA Manuals é uma plataforma online que facilita o acesso e download de man
 ## Funcionalidades
 
 - **Centralização de Manuais:** Todos os manuais do SUPRA estão organizados e acessíveis em um único local, simplificando a busca e download.
-  
-- **Pesquisa Avançada:** Utilize a funcionalidade de pesquisa para encontrar rapidamente manuais específicos por palavras-chave ou categorias.
 
 - **Compatibilidade Multiplataforma:** O site é responsivo, garantindo uma experiência consistente em diversos dispositivos, como desktops, tablets e smartphones.
 
